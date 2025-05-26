@@ -1,5 +1,5 @@
 # NYC-TAXI-AZURE-DATA-ENGINEERING-PROJECT
-End-To-End Nyc Taxi Azure Data Engineering project: This project showcases an end-to-end Azure Data Engineering pipeline using NYC Taxi trip data.
+End-To-End Nyc Taxi Azure Data Engineering project: This project showcases an Data Engineering pipeline using NYC Taxi trip data.
 
 ![Image](https://github.com/user-attachments/assets/684cc210-046e-42f5-9cb3-1bf91b6fb5c1)
 
